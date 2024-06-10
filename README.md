@@ -2,6 +2,4 @@
 
 ## Alterando o Git
 
-* comando git push 
-
-# a
+* comando git push
